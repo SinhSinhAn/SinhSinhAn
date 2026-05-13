@@ -1,4 +1,4 @@
-v<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=F7B500&center=true&vCenter=true&width=620&lines=Senior+PM+%40+Nebula+Labs;Incoming+PM+Co-op+%40+eBay+%E2%80%93+Jun+2026;Builder.+Shipper.+Learner.)](https://git.io/typing-svg)
 
